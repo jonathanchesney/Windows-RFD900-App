@@ -1,5 +1,5 @@
 # Windows-RFD900-App
-This python program is a Windows application designed for two-way Serial (USB) communcication. It is capable of displaying input. It can transmit throttle, toggle lights, and emergency stop. It was designed for RFD 900x long-range radios. However, it will work with any device capable of connecting to a Windows COM port that sends data in the format: 'b/(float)/(float)/(float)/'.
+This python program is a Windows application designed for two-way Serial (USB) communication. It is capable of displaying input. It can transmit throttle, toggle lights, and emergency stop. It was designed for RFD 900x long-range radios. However, it will work with any device capable of connecting to a Windows COM port that sends data in the format: 'b/(float)/(float)/(float)/'.
 
 ## Instructions
 
